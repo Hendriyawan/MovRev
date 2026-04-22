@@ -1,6 +1,6 @@
 # MOVREV - TMDB API
 
-### 📥 [Download Demo APK (Android)](demo.apk)
+### 📥 [Download Demo APK (Android)](demo.apk?raw=true)
 
 [<img src="screenshots.jpg" />](screenshots.jpg)
 MOVREV is a Flutter-based mobile application that displays movie information from The Movie Database (TMDb) API. Built with a focus on performance, clean code, and a modern UI/UX design.
